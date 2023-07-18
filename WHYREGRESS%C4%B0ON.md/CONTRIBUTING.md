@@ -54,15 +54,14 @@ git push origin my-feature
 Lütfen aşağıdaki kurallara dikkat edin ve bu projeye katkıda bulunurken bunları göz önünde bulundurun:
 
 - Sadece projenin gelişimine yardımcı olmak amacıyla katkıda bulunun.
-- Herhangi bir sorun veya hata raporlamak için [Issue](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/issues) bölümünü kullanın.
-- Herhangi bir yeni özellik veya büyük değişiklik yapmadan önce, değişiklik yapmak istediğiniz konuyu tartışmak için [Discussion](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/discussions) bölümünü kullanın.
+- Herhangi bir sorun veya hata raporlamak için bana mail yoluyla ulaşabilirsiniz andacberkayekren@gmail.com
 - Değişikliklerinizin projeye uygun olduğundan emin olmak için kod kalitesini sağlamak için testler yapın.
 - Diğer katkıda bulunanlara saygılı olun ve yapıcı bir ortamda iletişim kurun.
-- Proje ve katkılar [MIT Lisansı](LICENSE) altında sunulmaktadır. Bu nedenle, katkılarınızın aynı lisans altında dağıtılacağını unutmayın.
+- Proje ve katkılar [GPL-3.0](LICENSE) altında sunulmaktadır. Bu nedenle, katkılarınızın aynı lisans altında dağıtılacağını unutmayın.
 
 ## İletişim
 
-Herhangi bir soru, öneri veya geri bildiriminiz varsa, lütfen [Discussion](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/discussions) bölümünü kullanarak bize ulaşın.
+Herhangi bir soru, öneri veya geri bildiriminiz varsa, lütfen mail yoluyla bana ulaşın.
 
 ---
 
