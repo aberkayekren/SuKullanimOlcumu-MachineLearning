@@ -79,7 +79,7 @@ git push origin my-feature
 
 5. Bir pull request (çekme isteği) oluşturun.
 
-Daha fazla bilgi için [CONTRIBUTING.md](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/WHYREGRESS%25C4%25B0ON.md/CONTRIBUTING.md) dosyasını inceleyin.
+Daha fazla bilgi için [CONTRIBUTING.md](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/CONTRIBUTING.md) dosyasını inceleyin.
 
 ## Lisans
 
