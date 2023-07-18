@@ -18,6 +18,8 @@ Temel olarak, proje aşağıdaki bileşenleri içermektedir:
 
 Projenin Görsellerine Ulaşabilmek İçin: https://youtu.be/lqJcYRAy7iU
 
+Projede neden Linear Regression kullanıldığını [burdan inceleyebilirsiniz.](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/WHYREGRESSİON.md)
+
 ## Kurulum
 
 Bu projeyi yerel bilgisayarınıza kurmak için aşağıdaki adımları izleyin:
