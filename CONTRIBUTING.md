@@ -1,68 +1,67 @@
-# Katkıda Bulunma Kılavuzu
+# Contributing Guide
 
-Bu depoya katkıda bulunmak istediğiniz için teşekkür ederiz! Katkılarınız, projenin gelişmesine yardımcı olabilir ve topluluğun bu projeyi daha da iyi hale getirmesine katkıda bulunabilir.
+Thank you for wanting to contribute to this repository! Your contributions can help the project improve and contribute to the community making this project even better.
 
-## Katkıda Bulunma Süreci
+## Contribution Process
 
-Aşağıda, bu projeye katkıda bulunma sürecini basit adımlar halinde açıklayan bir rehber bulunmaktadır:
+Below is a guide that explains the process of contributing to this project in simple steps:
 
-1. Bu depoyu (repository) "fork" (çatallama) edin.
+1. "Fork" this repository.
 
-2. Kendi yerel makinenizde çalışmak için "fork"ladığınız depoyu klonlayın:
+2. Clone the repository you "forked" to run on your own local machine:
 
 ```console
 git clone https://github.com/<kullanici_adi>/SuKullanimOlcumu-MachineLearning.git
 ```
 
-3. Kendi yerel dalınızı (branch) oluşturun ve üzerinde çalışın:
+3. Create and work on your own local branch:
 
 ```console
 git checkout -b my-feature
 ```
 
-4. Yaptığınız değişiklikleri commit edin:
+4. Commit your changes:
 
 ```console
 git commit -am 'Add some feature'
 ```
 
-5. Dalınıza (branch) itme yapın (push):
-
+5. Push your branch:
 ```console
 git push origin my-feature
 ```
 
 
-6. Bir "Pull Request" oluşturun:
+6. Create a "Pull Request":
 
-- Orijinal depoda (upstream) değişikliklerinizi dahil eden bir "Pull Request" oluşturun.
-- Değişikliklerinizi ayrıntılı bir şekilde açıklayın ve neden bu değişiklikleri yaptığınızı belirtin.
+- Create a "Pull Request" in the original repository (upstream) that includes your changes.
+- Describe your changes in detail and why you made them.
 
-7. "Pull Request" incelemesi:
+7. "Pull Request" mining:
 
-- Projede yer alan diğer geliştiriciler, "Pull Request" inizi inceleyecektir.
-- Gerekirse ek değişiklikler veya iyileştirmeler istenebilir.
-- Değişikliklerinizin projeye uygun olduğunu doğruladıktan sonra, değişiklikler kabul edilebilir.
+- Other developers involved in the project will review your "Pull Request".
+- Additional changes or improvements may be requested if necessary.
+- After you verify that your changes are appropriate for the project, the changes can be accepted.
 
-8. Değişikliklerin kabul edilmesi:
+8. Acceptance of changes:
 
-- "Pull Request" iniz onaylandıktan sonra, değişiklikler orijinal projeye birleştirilecektir.
-- Değişikliklerinizin projeye dahil edildiğini görebilirsiniz!
+- Once your "Pull Request" is approved, the changes will be merged into the original project.
+- You can see that your changes have been incorporated into the project!
 
-## Katkı Kuralları
+## Contribution Rules
 
-Lütfen aşağıdaki kurallara dikkat edin ve bu projeye katkıda bulunurken bunları göz önünde bulundurun:
+Please note the following rules and keep them in mind when contributing to this project:
 
-- Sadece projenin gelişimine yardımcı olmak amacıyla katkıda bulunun.
-- Herhangi bir sorun veya hata raporlamak için bana mail yoluyla ulaşabilirsiniz andacberkayekren@gmail.com
-- Değişikliklerinizin projeye uygun olduğundan emin olmak için kod kalitesini sağlamak için testler yapın.
-- Diğer katkıda bulunanlara saygılı olun ve yapıcı bir ortamda iletişim kurun.
-- Proje ve katkılar [GPL-3.0](LICENSE) altında sunulmaktadır. Bu nedenle, katkılarınızın aynı lisans altında dağıtılacağını unutmayın.
+- Contribute only for the purpose of helping the development of the project.
+- You can contact me via mail to report any problems or bugs andacberkayekren@gmail.com
+- Run tests to ensure code quality to make sure your changes are appropriate for the project.
+- Be respectful of other contributors and communicate in a constructive environment.
+- The project and contributions are offered under [GPL-3.0](LICENSE). Therefore, keep in mind that your contributions will be distributed under the same license.
+  
+## Contact
 
-## İletişim
-
-Herhangi bir soru, öneri veya geri bildiriminiz varsa, lütfen mail yoluyla bana ulaşın.
+If you have any questions, suggestions or feedback, please contact me via mail.
 
 ---
 
-Bu CONTRIBUTING.md dosyası, SuKullanimOlcumu-MachineLearning adlı GitHub deposu için oluşturulmuştur. Daha fazla bilgi ve kaynak kodları için [depo bağlantısını](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning) ziyaret edebilirsiniz.
+This CONTRIBUTING.md file was created for the GitHub repository named SuUsageMeter-MachineLearning. For more information and source code, you can visit [repository link](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning).
