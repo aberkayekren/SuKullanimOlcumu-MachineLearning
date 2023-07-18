@@ -1,90 +1,89 @@
-# Su Kullanım Ölçümü - Makine Öğrenmesi
+# Water Usage Measurement - Machine Learning
 
-Bu proje, su kullanımının ölçülmesi için makine öğrenmesi tekniklerini kullanan bir su kullanım ölçümü uygulamasını içerir. Proje, su kullanımını tahmin etmek ve analiz etmek için veri bilimi ve makine öğrenmesi yöntemlerini kullanır.
+This project involves a water usage measurement application that utilizes machine learning techniques to measure water usage. The project employs data science and machine learning methods to predict and analyze water usage.
 
-## Proje Hakkında
+## The Project
 
 
-Bu projenin amacı, su kullanımını ölçmek ve analiz etmek için makine öğrenmesi yöntemlerini kullanmaktır. Su kaynaklarının sürdürülebilirliği ve etkin kullanımı önemli bir konudur. Bu proje, su kullanımını tahmin etmek ve optimize etmek için makine öğrenmesi algoritmalarını kullanarak bu soruna çözüm sağlamayı hedeflemektedir.
+The purpose of this project is to utilize machine learning methods to measure and analyze water usage. The sustainability and efficient utilization of water resources are important issues. The project aims to provide a solution to this problem by using machine learning algorithms to predict and optimize water usage.
 
-Proje, bir evin veya işletmenin su kullanımını tahmin etmek için kullanılabilir. Projede kullanılan veri seti, su tüketimini etkileyen faktörleri içermektedir. Örneğin, veri seti içindeki her bir veri örneği, epoch değeri (İsa'nın doğumundan bugüne kadar geçen milisaniye cinsinden zaman bilgisi) ile su tüketimi değerini içermektedir.
+The project can be used to predict water usage for a household or a business. The dataset used in the project contains factors that affect water consumption. For example, each data sample in the dataset includes a timestamp value (in milliseconds since the birth of Jesus) and the corresponding water consumption value.
 
-Temel olarak, proje aşağıdaki bileşenleri içermektedir:
+Essentially, the project involves the following components:
 
-- Veri Toplama: Su kullanımı verilerini toplamak için sensörler veya ölçüm cihazları kullanılır.
-- Veri İşleme: Toplanan veriler, makine öğrenmesi algoritmalarına uygun formata getirilir.
-- Makine Öğrenmesi: Veri seti üzerinde makine öğrenmesi algoritmaları uygulanır ve su kullanımını tahmin etmek için bir model oluşturulur.
-- Analiz ve Sonuçlar: Oluşturulan modelin performansı değerlendirilir ve sonuçlar analiz edilir.
+Data Collection: Sensors or measurement devices are used to collect water usage data.
+Data Processing: The collected data is formatted in a way suitable for machine learning algorithms.
+Machine Learning: Machine learning algorithms are applied to the dataset to create a model for predicting water usage.
+Analysis and Results: The performance of the created model is evaluated, and the results are analyzed.
+To access the visuals of the project, please refer to the following link: https://youtu.be/lqJcYRAy7iU
 
-Projenin Görsellerine Ulaşabilmek İçin: https://youtu.be/lqJcYRAy7iU
+Why Linear Regression is used in the project [see here.](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/WhyLinearRegression)
 
-Projede neden Linear Regression kullanıldığını [burdan inceleyebilirsiniz.](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/WhyLinearRegression)
+## Setup
 
-## Kurulum
+To install this project on your local computer, follow these steps:
 
-Bu projeyi yerel bilgisayarınıza kurmak için aşağıdaki adımları izleyin:
-
-1. Depoyu yerel makinenize klonlayın:
+1. Clone the repository to your local machine:
 ```console
 git clone https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning.git
 ```
-2. Proje dizinine gidin:
+2. Navigate to the project directory:
 ```console
 git clone https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning.git
 ```
-3. Gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:
+3. Run the following command to install the required dependencies:
 ```console
 git clone https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning.git
 ```
 
-4. Proje dosyalarını kullanarak su kullanımı tahmini yapabilirsiniz.
+4. You can estimate water usage using project files.
 
-## Kullanım
+## Use
 
-Bu projenin kullanımıyla ilgili ayrıntılı talimatlar burada yer almalıdır. Örnek olarak:
+Detailed instructions on the use of this project should be included here. For example:
 
-1. Veri Toplama:
-- Sensörler veya ölçüm cihazları kullanarak su kullanımı verilerini toplayın.
-- Veri setini uygun formatta hazırlayın.
+1. Data Collection:
+- Collect water usage data using sensors or meters.
+- Prepare the data set in the appropriate format.
 
-2. Veri İşleme:
-- Toplanan verileri proje dosyalarında kullanılmak üzere uygun formata getirin.
+3. Data Processing:
+- Format the collected data to be used in project files.
 
-3. Makine Öğrenmesi:
-- Proje dosyalarını kullanarak makine öğrenmesi algoritmalarını uygulayın.
-- Su kullanımını tahmin etmek için bir model oluşturun.
+3. Machine Learning:
+- Apply machine learning algorithms using project files.
+- Create a model to predict water usage.
 
-4. Analiz ve Sonuçlar:
-- Oluşturulan modelin performansını değerlendirin.
-- Sonuçları analiz edin ve yorumlayın.
+4. Analysis and Results:
+- Evaluate the performance of the generated model.
+- Analyze and interpret the results.
 
-## Katkı
+## Contribution
 
-Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin:
+If you would like to contribute to this project, please follow the steps below:
 
-1. Bu depoyu (repository) fork (çatallama) yapın.
+1. Fork this repository.
 
-2. Yeni bir dal (branch) oluşturun:
+2. Create a new branch:
 ```console
 git checkout -b my-feature
 ```
-3. Yaptığınız değişiklikleri commit edin:
+3. Commit your changes:
 ```console
 git commit -am 'Add some feature'
 ```
-4. Dalınıza (branch) itme yapın (push):
+4. Push your branch:
 ```console
 git push origin my-feature
 ```
 
-5. Bir pull request (çekme isteği) oluşturun.
+5. Create a pull request.
 
-Daha fazla bilgi için [CONTRIBUTING.md](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/CONTRIBUTING.md) dosyasını inceleyin.
+Further reading [CONTRIBUTING.md](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/CONTRIBUTING.md) file.
 
-## Lisans
+## License
 
-Bu proje [GPL-3.0](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için lisans dosyasını inceleyin.
+This project is licensed under [GPL-3.0](LICENSE). Examine the license file for more information.
 
 ---
 
-Bu README.md dosyası, SuKullanimOlcumu-MachineLearning adlı GitHub deposu için oluşturulmuştur. Daha fazla bilgi ve kaynak kodları için [depo bağlantısını](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning) ziyaret edebilirsiniz.
+This README.md file was created for the GitHub repository named SuUsageMetric-MachineLearning. For more information and source code, you can visit [repository link](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning).
