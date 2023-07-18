@@ -16,6 +16,8 @@ Temel olarak, proje aşağıdaki bileşenleri içermektedir:
 - Makine Öğrenmesi: Veri seti üzerinde makine öğrenmesi algoritmaları uygulanır ve su kullanımını tahmin etmek için bir model oluşturulur.
 - Analiz ve Sonuçlar: Oluşturulan modelin performansı değerlendirilir ve sonuçlar analiz edilir.
 
+Projenin Görsellerine Ulaşabilmek İçin: https://youtu.be/lqJcYRAy7iU
+
 ## Kurulum
 
 Bu projeyi yerel bilgisayarınıza kurmak için aşağıdaki adımları izleyin:
