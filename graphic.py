@@ -10,3 +10,8 @@ plt.xlabel('Girdi')
 plt.ylabel('Çıktı')
 plt.legend()
 plt.text(0.95, 0.95, figurText, horizontalalignment='right', verticalalignment='top', transform=plt.gca().transAxes)
+
+with open('accuracyMeasurement.py', 'r') as file:
+    code = file.read()
+
+exec(code)
