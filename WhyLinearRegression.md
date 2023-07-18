@@ -16,6 +16,7 @@ Other regression models (e.g., polynomial regression, nonlinear regression) can 
 
 # Why Other Regression Models Are Not Used:
 
+- Logistic Regression: Logistic regression is a model used for classification problems, utilizing the sigmoid function to capture non-linear relationships. It may not have been preferred because the target variable in the dataset is continuous and requires classification instead of regression. However, depending on the project requirements, logistic regression can be a viable option to consider.
 - Ridge Regression: It may not be preferred unless there is excessive multicollinearity in the dataset or regularization is necessary.
 - Lasso Regression: It can be used if there are a small number of significant features in the dataset or if feature selection is desired.
 - Elastic Net Regression: It combines the advantages of Lasso and Ridge regression, but it may not be preferred when feature selection is not needed or there are only a few features.
