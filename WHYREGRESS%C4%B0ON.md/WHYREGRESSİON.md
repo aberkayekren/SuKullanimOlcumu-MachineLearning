@@ -1,8 +1,6 @@
-# Su Kullanım Ölçümü - Linear Regresyon
+# Neden Linear Regression
 
 Bu proje, su kullanımının ölçülmesi için linear regresyon yöntemini kullanarak su kullanımını tahmin etmek amacıyla yapılmıştır.
-
-## Proje Hakkında
 
 Bu proje, su kullanımını tahmin etmek ve analiz etmek için makine öğrenmesi yöntemlerini kullanmayı amaçlamaktadır. Su kaynaklarının sürdürülebilirliği ve etkin kullanımı önemli bir konudur. Bu projede, su kullanımını ölçmek ve analiz etmek amacıyla linear regresyon modeli tercih edilmiştir.
 
@@ -15,8 +13,3 @@ Linear regresyon, temel bir regresyon yöntemidir ve su kullanımı tahmini gibi
 - İnterpretasyon Kolaylığı: Linear regresyon modelleri, modelin parametrelerinin ve katsayılarının kolayca yorumlanabilmesini sağlar. Bu, su kullanımının hangi faktörlerle ilişkili olduğunu anlamayı ve çıkarımlar yapmayı kolaylaştırır.
 
 Diğer regresyon modelleri (örneğin, polinomiyal regresyon, doğrusal olmayan regresyon) daha karmaşık ilişkileri yakalayabilir, ancak bazen daha fazla veri veya daha fazla işleme gerektirebilir. Projede linear regresyonun yeterli olduğu ve beklenen sonuçları sağladığı düşünülmüş olabilir.
-
-## Kurulum
-
-Bu projeyi yerel bilgisayarınıza kurmak için aşağıdaki adımları izleyin:
-...
