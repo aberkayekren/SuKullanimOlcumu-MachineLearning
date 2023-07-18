@@ -15,3 +15,8 @@ with open('accuracyMeasurement.py', 'r') as file:
     code = file.read()
 
 exec(code)
+
+with open('prediction.py', 'r') as file:
+    code = file.read()
+
+exec(code)
