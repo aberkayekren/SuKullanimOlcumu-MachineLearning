@@ -17,7 +17,7 @@ Machine Learning: Machine learning algorithms are applied to the dataset to crea
 Analysis and Results: The performance of the created model is evaluated, and the results are analyzed.
 To access the visuals of the project, please refer to the following link: https://youtu.be/lqJcYRAy7iU
 
-Why Linear Regression is used in the project [see here.](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/WhyLinearRegression)
+Why Linear Regression is used in the project [see here.](https://github.com/aberkayekren/SuKullanimOlcumu-MachineLearning/blob/main/WhyLinearRegression.md)
 
 ## Setup
 
